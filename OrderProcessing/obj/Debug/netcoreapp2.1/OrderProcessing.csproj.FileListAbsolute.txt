@@ -1,0 +1,17 @@
+D:\ASP.NetCore\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.csproj.CoreCompileInputs.cache
+D:\ASP.NetCore\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.AssemblyInfoInputs.cache
+D:\ASP.NetCore\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.AssemblyInfo.cs
+D:\ASP.NetCore\OrderProcessing\bin\Debug\netcoreapp2.1\OrderProcessing.deps.json
+D:\ASP.NetCore\OrderProcessing\bin\Debug\netcoreapp2.1\OrderProcessing.dll
+D:\ASP.NetCore\OrderProcessing\bin\Debug\netcoreapp2.1\OrderProcessing.pdb
+D:\ASP.NetCore\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.dll
+D:\ASP.NetCore\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.pdb
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\bin\Debug\netcoreapp2.1\OrderProcessing.deps.json
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\bin\Debug\netcoreapp2.1\OrderProcessing.dll
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\bin\Debug\netcoreapp2.1\OrderProcessing.pdb
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.csprojAssemblyReference.cache
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.csproj.CoreCompileInputs.cache
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.AssemblyInfoInputs.cache
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.AssemblyInfo.cs
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.dll
+D:\ASP.NetCore\BusinessRuleEngine\OrderProcessing\obj\Debug\netcoreapp2.1\OrderProcessing.pdb
